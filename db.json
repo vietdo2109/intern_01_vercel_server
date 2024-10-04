@@ -57,18 +57,17 @@
   ],
   "users": [
     {
+      "name": "video",
       "email": "james@gmail.com",
-      "formerEmploymentPeriod": [
-        "Thu Jan 18 2024 01:06:58 GMT+0330 (Iran Standard Time)",
-        "Thu Jan 18 2024 01:06:58 GMT+0330 (Iran Standard Time)"
+      "FEPeriod": [
+        "2001-01-17",
+        "2001-01-17"
       ],
-      "name": "David",
       "gender": "1",
-      "languagesSpoken": [
+      "languages": [
         "1",
         "2"
       ],
-      "registrationDateAndTime": "Thu Jan 18 2024 01:06:58 GMT+0330 (Iran Standard Time)",
       "salaryRange": [
         0,
         2000
@@ -90,22 +89,23 @@
           "name": "2222"
         }
       ],
+      "dob": "2024-01-17",
       "id": 1
     },
     {
       "email": "Robert@gmail.com",
-      "formerEmploymentPeriod": [
+      "FEPeriod": [
         "Wed Aug 09 2023 00:00:00 GMT+0330 (Iran Standard Time)",
         "Thu Jan 18 2024 01:20:23 GMT+0330 (Iran Standard Time)"
       ],
       "name": "Robert",
       "gender": "2",
-      "languagesSpoken": [
+      "languages": [
         "1",
         "2",
         "3"
       ],
-      "registrationDateAndTime": "Wed Jan 07 1981 04:40:23 GMT+0330 (Iran Standard Time)",
+      "dob": "Wed Jan 07 1981 04:40:23 GMT+0330 (Iran Standard Time)",
       "salaryRange": [
         67,
         87
@@ -133,17 +133,17 @@
     },
     {
       "email": "john@gmail.com",
-      "formerEmploymentPeriod": [
+      "FEPeriod": [
         "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)",
         "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)"
       ],
       "name": "John",
       "gender": "1",
-      "languagesSpoken": [
+      "languages": [
         "1",
         "2"
       ],
-      "registrationDateAndTime": "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)",
+      "dob": "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)",
       "salaryRange": [
         0,
         2000
@@ -162,6 +162,244 @@
         }
       ],
       "id": 3
+    },
+    {
+      "name": "Viet",
+      "email": "dovanviet2109@gmail.com",
+      "states": [
+        "1",
+        "2"
+      ],
+      "languages": [
+        "1",
+        "2",
+        "3"
+      ],
+      "gender": "1",
+      "skills": [
+        "1",
+        "2"
+      ],
+      "dob": "2021-02-16",
+      "FEPeriod": [
+        "2023-01-04",
+        "2024-10-04"
+      ],
+      "salaryRange": [
+        78,
+        98
+      ],
+      "isTeacher": true,
+      "students": [
+        {
+          "name": "viet con"
+        }
+      ],
+      "variant": "create",
+      "id": 4
+    },
+    {
+      "name": "Viet2",
+      "email": "dovanviet2109@gmail.com",
+      "states": [
+        "1",
+        "2"
+      ],
+      "languages": [
+        "1",
+        "2",
+        "3"
+      ],
+      "gender": "1",
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
+      "dob": "2024-10-04",
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "isTeacher": false,
+      "variant": "create",
+      "id": 5
+    },
+    {
+      "name": "Hieu ngu",
+      "email": "Sincere@april.biz",
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "gender": "2",
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "1"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
+      "isTeacher": false,
+      "students": [],
+      "dob": "2024-10-04",
+      "id": 6
+    },
+    {
+      "variant": "create",
+      "name": "Ha Dong",
+      "email": "viet2@gmail.com",
+      "FEPeriod": [
+        "2023-02-01",
+        "2024-10-04"
+      ],
+      "gender": "1",
+      "languages": [
+        "1"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "1"
+      ],
+      "states": [
+        "1"
+      ],
+      "isTeacher": false,
+      "dob": "2024-10-16",
+      "id": 7
+    },
+    {
+      "variant": "create",
+      "name": "Ha Dong",
+      "email": "dovanviet2109@gmail.com",
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "gender": "1",
+      "languages": [
+        "1"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "2"
+      ],
+      "states": [
+        "1"
+      ],
+      "isTeacher": false,
+      "dob": "2024-10-04",
+      "id": 8
+    },
+    {
+      "variant": "create",
+      "name": "viet 5",
+      "email": "dovanviet2109@gmail.com",
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "gender": "1",
+      "languages": [
+        "2"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "2",
+        "3",
+        "4"
+      ],
+      "states": [
+        "1"
+      ],
+      "isTeacher": false,
+      "dob": "2024-10-04",
+      "id": 9
+    },
+    {
+      "variant": "create",
+      "name": "Ha Dong `1",
+      "email": "dovanviet2109@gmail.com",
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "gender": "1",
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
+      "isTeacher": false,
+      "dob": "2024-10-04",
+      "id": 10
+    },
+    {
+      "name": "viet dt",
+      "email": "dovanviet2109@gmail.com",
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "gender": "1",
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        0,
+        100
+      ],
+      "skills": [
+        "1"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
+      "isTeacher": true,
+      "students": [
+        {
+          "name": "fasdf"
+        },
+        {
+          "name": "fadsfaf"
+        }
+      ],
+      "dob": "2002-09-21",
+      "id": 11
     }
   ]
 }
