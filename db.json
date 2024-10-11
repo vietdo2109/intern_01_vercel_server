@@ -401,5 +401,81 @@
       "dob": "2002-09-21",
       "id": 11
     }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "text": "Upcoming task 1",
+      "type": {
+        "value": "Upcoming"
+      },
+      "date": "Due Date 18 Jan 2024",
+      "tags": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Completed task 1 updated",
+      "type": {
+        "value": "Planned"
+      },
+      "date": "Due Date 18 Jan 2024",
+      "tags": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Completed task 2",
+      "type": {
+        "value": "Completed"
+      },
+      "date": "Due Date 18 Jan 2024",
+      "tags": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Completed task 3 ",
+      "type": {
+        "value": "Upcoming"
+      },
+      "date": "Due Date 18 Jan 2025",
+      "tags": [
+        5,
+        6
+      ]
+    },
+    {
+      "text": "dfasdf",
+      "date": "fasdfas",
+      "tags": [
+        1,
+        2
+      ],
+      "id": 6,
+      "type": {
+        "value": "Upcoming"
+      }
+    },
+    {
+      "text": "new completed task 4",
+      "date": "next year",
+      "tags": [
+        4,
+        5,
+        6
+      ],
+      "id": 7,
+      "type": {
+        "value": "Planned"
+      }
+    }
   ]
 }
