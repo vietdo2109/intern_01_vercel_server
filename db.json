@@ -59,12 +59,27 @@
     {
       "name": "video",
       "email": "james@gmail.com",
-      "FEPeriod": ["2001-01-17", "2001-01-17"],
+      "FEPeriod": [
+        "2001-01-17",
+        "2001-01-17"
+      ],
       "gender": "1",
-      "languages": ["1", "2"],
-      "salaryRange": [0, 2000],
-      "skills": ["1", "2"],
-      "states": ["1", "2"],
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        0,
+        2000
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
       "isTeacher": true,
       "students": [
         {
@@ -85,11 +100,23 @@
       ],
       "name": "Robert",
       "gender": "2",
-      "languages": ["1", "2", "3"],
+      "languages": [
+        "1",
+        "2",
+        "3"
+      ],
       "dob": "Wed Jan 07 1981 04:40:23 GMT+0330 (Iran Standard Time)",
-      "salaryRange": [67, 87],
-      "skills": ["1", "2"],
-      "states": ["3"],
+      "salaryRange": [
+        67,
+        87
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "states": [
+        "3"
+      ],
       "isTeacher": true,
       "students": [
         {
@@ -112,11 +139,22 @@
       ],
       "name": "John",
       "gender": "1",
-      "languages": ["1", "2"],
+      "languages": [
+        "1",
+        "2"
+      ],
       "dob": "Sat Jan 20 2024 18:12:01 GMT+0330 (Iran Standard Time)",
-      "salaryRange": [0, 2000],
-      "skills": ["1", "2"],
-      "states": ["1"],
+      "salaryRange": [
+        0,
+        2000
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "states": [
+        "1"
+      ],
       "isTeacher": true,
       "students": [
         {
@@ -128,13 +166,29 @@
     {
       "name": "Viet",
       "email": "dovanviet2109@gmail.com",
-      "states": ["1", "2"],
-      "languages": ["1", "2", "3"],
+      "states": [
+        "1",
+        "2"
+      ],
+      "languages": [
+        "1",
+        "2",
+        "3"
+      ],
       "gender": "1",
-      "skills": ["1", "2"],
+      "skills": [
+        "1",
+        "2"
+      ],
       "dob": "2021-02-16",
-      "FEPeriod": ["2023-01-04", "2024-10-04"],
-      "salaryRange": [78, 98],
+      "FEPeriod": [
+        "2023-01-04",
+        "2024-10-04"
+      ],
+      "salaryRange": [
+        78,
+        98
+      ],
       "isTeacher": true,
       "students": [
         {
@@ -147,13 +201,30 @@
     {
       "name": "Viet2",
       "email": "dovanviet2109@gmail.com",
-      "states": ["1", "2"],
-      "languages": ["1", "2", "3"],
+      "states": [
+        "1",
+        "2"
+      ],
+      "languages": [
+        "1",
+        "2",
+        "3"
+      ],
       "gender": "1",
-      "skills": ["1", "2", "3"],
+      "skills": [
+        "1",
+        "2",
+        "3"
+      ],
       "dob": "2024-10-04",
-      "FEPeriod": ["2024-10-04", "2024-10-04"],
-      "salaryRange": [10, 30],
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
       "isTeacher": false,
       "variant": "create",
       "id": 5
@@ -161,12 +232,26 @@
     {
       "name": "Hieu ngu",
       "email": "Sincere@april.biz",
-      "FEPeriod": ["2024-10-04", "2024-10-04"],
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
       "gender": "2",
-      "languages": ["1", "2"],
-      "salaryRange": [10, 30],
-      "skills": ["1"],
-      "states": ["1", "2"],
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "1"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
       "isTeacher": false,
       "students": [],
       "dob": "2024-10-04",
@@ -176,12 +261,24 @@
       "variant": "create",
       "name": "Ha Dong",
       "email": "viet2@gmail.com",
-      "FEPeriod": ["2023-02-01", "2024-10-04"],
+      "FEPeriod": [
+        "2023-02-01",
+        "2024-10-04"
+      ],
       "gender": "1",
-      "languages": ["1"],
-      "salaryRange": [10, 30],
-      "skills": ["1"],
-      "states": ["1"],
+      "languages": [
+        "1"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "1"
+      ],
+      "states": [
+        "1"
+      ],
       "isTeacher": false,
       "dob": "2024-10-16",
       "id": 7
@@ -190,12 +287,24 @@
       "variant": "create",
       "name": "Ha Dong",
       "email": "dovanviet2109@gmail.com",
-      "FEPeriod": ["2024-10-04", "2024-10-04"],
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
       "gender": "1",
-      "languages": ["1"],
-      "salaryRange": [10, 30],
-      "skills": ["2"],
-      "states": ["1"],
+      "languages": [
+        "1"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "2"
+      ],
+      "states": [
+        "1"
+      ],
       "isTeacher": false,
       "dob": "2024-10-04",
       "id": 8
@@ -204,12 +313,26 @@
       "variant": "create",
       "name": "viet 5",
       "email": "dovanviet2109@gmail.com",
-      "FEPeriod": ["2024-10-04", "2024-10-04"],
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
       "gender": "1",
-      "languages": ["2"],
-      "salaryRange": [10, 30],
-      "skills": ["2", "3", "4"],
-      "states": ["1"],
+      "languages": [
+        "2"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "2",
+        "3",
+        "4"
+      ],
+      "states": [
+        "1"
+      ],
       "isTeacher": false,
       "dob": "2024-10-04",
       "id": 9
@@ -218,12 +341,27 @@
       "variant": "create",
       "name": "Ha Dong `1",
       "email": "dovanviet2109@gmail.com",
-      "FEPeriod": ["2024-10-04", "2024-10-04"],
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
       "gender": "1",
-      "languages": ["1", "2"],
-      "salaryRange": [10, 30],
-      "skills": ["1", "2"],
-      "states": ["1", "2"],
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        10,
+        30
+      ],
+      "skills": [
+        "1",
+        "2"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
       "isTeacher": false,
       "dob": "2024-10-04",
       "id": 10
@@ -231,12 +369,26 @@
     {
       "name": "viet dt",
       "email": "dovanviet2109@gmail.com",
-      "FEPeriod": ["2024-10-04", "2024-10-04"],
+      "FEPeriod": [
+        "2024-10-04",
+        "2024-10-04"
+      ],
       "gender": "1",
-      "languages": ["1", "2"],
-      "salaryRange": [0, 100],
-      "skills": ["1"],
-      "states": ["1", "2"],
+      "languages": [
+        "1",
+        "2"
+      ],
+      "salaryRange": [
+        0,
+        100
+      ],
+      "skills": [
+        "1"
+      ],
+      "states": [
+        "1",
+        "2"
+      ],
       "isTeacher": true,
       "students": [
         {
@@ -258,7 +410,11 @@
         "value": "Planned"
       },
       "date": "Due Date 18 Jan 2024",
-      "tags": [2, 3, 4]
+      "tags": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "id": 4,
@@ -267,7 +423,10 @@
         "value": "Planned"
       },
       "date": "Due Date 18 Jan 2024",
-      "tags": [1, 2]
+      "tags": [
+        1,
+        2
+      ]
     },
     {
       "id": 5,
@@ -276,12 +435,20 @@
         "value": "Completed"
       },
       "date": "Due Date 18 Jan 2025",
-      "tags": [4, 5, 6]
+      "tags": [
+        4,
+        5,
+        6
+      ]
     },
     {
       "text": "new completed task 4",
       "date": "next year",
-      "tags": [4, 5, 6],
+      "tags": [
+        4,
+        5,
+        6
+      ],
       "id": 7,
       "type": {
         "value": "Upcoming"
@@ -290,7 +457,11 @@
     {
       "text": "learn SPM",
       "date": "tomorrow",
-      "tags": [1, 2, 4],
+      "tags": [
+        1,
+        2,
+        4
+      ],
       "id": 8,
       "type": {
         "value": "Completed"
@@ -299,7 +470,11 @@
     {
       "text": "new upcomming task fe",
       "date": "daf",
-      "tags": [1, 2, 3],
+      "tags": [
+        1,
+        2,
+        3
+      ],
       "id": 9,
       "type": {
         "value": "Upcoming"
@@ -308,10 +483,25 @@
     {
       "text": "new task test modified",
       "date": "tomorrow",
-      "tags": [1, 2],
+      "tags": [
+        1,
+        2
+      ],
       "id": 10,
       "type": {
         "value": "Upcoming"
+      }
+    },
+    {
+      "text": "AA",
+      "date": "AA",
+      "tags": [
+        1,
+        2
+      ],
+      "id": 11,
+      "type": {
+        "value": "Planned"
       }
     }
   ]
